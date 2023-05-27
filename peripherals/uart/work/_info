@@ -1,0 +1,183 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/kaung/OneDrive/Documents/Auston/Project/RISC-V RV32E Micro/peripherals/uart
+Euart
+Z0 w1684473863
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 82
+Z4 dA:/Project/RISC-V RV32E Micro/peripherals/uart
+Z5 8A:/Project/RISC-V RV32E Micro/peripherals/uart/uart.vhd
+Z6 FA:/Project/RISC-V RV32E Micro/peripherals/uart/uart.vhd
+l0
+L5 1
+VWL9nAn:Fk1@jTCOWRCNoL3
+!s100 0?zU]Tdi:z4aCHY9Wldl<3
+Z7 OV;C;2020.1;71
+33
+Z8 !s110 1684473868
+!i10b 1
+Z9 !s108 1684473868.000000
+Z10 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/peripherals/uart/uart.vhd|
+Z11 !s107 A:/Project/RISC-V RV32E Micro/peripherals/uart/uart.vhd|
+!i113 1
+Z12 o-work work
+Z13 tExplicit 1 NoCoverage 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+DEx4 work 4 uart 0 22 WL9nAn:Fk1@jTCOWRCNoL3
+!i122 82
+l49
+L23 47
+V=fIR=[j4zl4_BDjQOVVAI0
+!s100 G:8:8Lc@gLRnC0f68lET12
+R7
+33
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Euart_rx
+Z14 w1684469589
+R1
+R2
+R3
+!i122 83
+R4
+Z15 8A:/Project/RISC-V RV32E Micro/peripherals/uart/uart_rx.vhd
+Z16 FA:/Project/RISC-V RV32E Micro/peripherals/uart/uart_rx.vhd
+l0
+L5 1
+V;1h0j0R:EZL]>b0AY0LIX3
+!s100 Ab:ag31DPzGR@WKa3IL9[2
+R7
+33
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/peripherals/uart/uart_rx.vhd|
+Z18 !s107 A:/Project/RISC-V RV32E Micro/peripherals/uart/uart_rx.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 7 uart_rx 0 22 ;1h0j0R:EZL]>b0AY0LIX3
+!i122 83
+l28
+L19 74
+VlKS3;oLT`RiC^J7:JbTXO0
+!s100 5j4lUZ^[fB[74]5K;CCg53
+R7
+33
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Euart_tb
+Z19 w1684473836
+R1
+R2
+R3
+!i122 84
+R4
+Z20 8A:/Project/RISC-V RV32E Micro/peripherals/uart/uart_tb.vhd
+Z21 FA:/Project/RISC-V RV32E Micro/peripherals/uart/uart_tb.vhd
+l0
+L5 1
+V5oNIEhGD8e?zRfZY@O?Da1
+!s100 jCac0^1Z2zJS0z7L?5P2Z2
+R7
+33
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/peripherals/uart/uart_tb.vhd|
+Z23 !s107 A:/Project/RISC-V RV32E Micro/peripherals/uart/uart_tb.vhd|
+!i113 1
+R12
+R13
+Atb
+R1
+R2
+R3
+DEx4 work 7 uart_tb 0 22 5oNIEhGD8e?zRfZY@O?Da1
+!i122 84
+l145
+L8 170
+V5zd4f4z@T0kQ9X9<k]b0_0
+!s100 fIWh96jV^D[C@:ZN1W=h;3
+R7
+33
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Euart_tx
+Z24 w1684469198
+R1
+R2
+R3
+!i122 85
+R4
+Z25 8A:/Project/RISC-V RV32E Micro/peripherals/uart/uart_tx.vhd
+Z26 FA:/Project/RISC-V RV32E Micro/peripherals/uart/uart_tx.vhd
+l0
+L5 1
+VJWKDMUoOThX@WN>]^e=M=0
+!s100 @4=6PPkbfPBOBU1[fKZC[3
+R7
+33
+Z27 !s110 1684473869
+!i10b 1
+R9
+Z28 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/peripherals/uart/uart_tx.vhd|
+Z29 !s107 A:/Project/RISC-V RV32E Micro/peripherals/uart/uart_tx.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+Z30 DEx4 work 7 uart_tx 0 22 JWKDMUoOThX@WN>]^e=M=0
+!i122 85
+l27
+Z31 L16 75
+Z32 VlT0`gczQRYPed`8AZ<o;T2
+Z33 !s100 _IDj_keTBGl`jIb=gmBz02
+R7
+33
+R27
+!i10b 1
+R9
+R28
+R29
+!i113 1
+R12
+R13

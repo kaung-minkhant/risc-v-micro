@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Thu Apr  6 21:58:42 2023
+Quartus Prime Version : 22.1std.0 Build 915 10/25/2022 SC Lite Edition
+Revision Name : microcontroller
+Top-level Entity Name : uart
+Family : MAX 10
+Total logic elements : 207
+    Total combinational functions : 175
+    Dedicated logic registers : 133
+Total registers : 133
+Total pins : 81
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
