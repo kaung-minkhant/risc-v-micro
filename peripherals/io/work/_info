@@ -8,25 +8,25 @@ z2
 !i10f 100
 cModel Technology
 Z0 dA:/Project/RISC-V RV32E Micro/peripherals/io
-Eio_pin
-Z1 w1684989953
+Eio
+Z1 w1687586693
 Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
 Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
 R0
-Z5 8A:/Project/RISC-V RV32E Micro/peripherals/io/io_pin.vhd
-Z6 FA:/Project/RISC-V RV32E Micro/peripherals/io/io_pin.vhd
+Z5 8A:/Project/RISC-V RV32E Micro/peripherals/io/io.vhd
+Z6 FA:/Project/RISC-V RV32E Micro/peripherals/io/io.vhd
 l0
 L5
-V6AgcKG=]H:^f?^RZTla>Y0
-!s100 Vh`5dO1Ue2dAZoQ_CF8442
+VKVL;U1K]S4TBRGNMR;V2V1
+!s100 DYj4ED^XQ;FO^XN=[c:Yo0
 Z7 OV;C;10.5b;63
 32
-Z8 !s110 1685006215
+Z8 !s110 1687587795
 !i10b 1
-Z9 !s108 1685006215.000000
-Z10 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/peripherals/io/io_pin.vhd|
-Z11 !s107 A:/Project/RISC-V RV32E Micro/peripherals/io/io_pin.vhd|
+Z9 !s108 1687587795.000000
+Z10 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/peripherals/io/io.vhd|
+Z11 !s107 A:/Project/RISC-V RV32E Micro/peripherals/io/io.vhd|
 !i113 1
 Z12 o-work work
 Z13 tExplicit 1 CvgOpt 0
@@ -34,11 +34,11 @@ Aarch
 R2
 R3
 R4
-DEx4 work 6 io_pin 0 22 6AgcKG=]H:^f?^RZTla>Y0
-l15
-L13
-VlDn@^dG6E2D1T`z6]]I0z1
-!s100 WETU16g]JkG:Vf<B0Id?U3
+DEx4 work 2 io 0 22 KVL;U1K]S4TBRGNMR;V2V1
+l38
+L22
+VeTeh<Geb?WcB[i?N<jhca0
+!s100 kDicaOMcK3KF1KNkjL5;@2
 R7
 32
 R8
@@ -49,25 +49,25 @@ R11
 !i113 1
 R12
 R13
-Eport_router
-Z14 w1685006210
+Eiopin
+Z14 w1687587672
 R2
 R3
 R4
 R0
-Z15 8A:/Project/RISC-V RV32E Micro/peripherals/io/port_router.vhd
-Z16 FA:/Project/RISC-V RV32E Micro/peripherals/io/port_router.vhd
+Z15 8A:/Project/RISC-V RV32E Micro/peripherals/io/iopin.vhd
+Z16 FA:/Project/RISC-V RV32E Micro/peripherals/io/iopin.vhd
 l0
 L5
-VN4iFkmEGd4i<Vo@bc8BU@3
-!s100 0C`7Z8e0;`Y=B:z<=6E:D1
+VnIIkmSn:mfcH7zYb51gDK0
+!s100 __OH?>flRfm^LMJccR>>H0
 R7
 32
-Z17 !s110 1685006216
+R8
 !i10b 1
-Z18 !s108 1685006216.000000
-Z19 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/peripherals/io/port_router.vhd|
-Z20 !s107 A:/Project/RISC-V RV32E Micro/peripherals/io/port_router.vhd|
+R9
+Z17 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/peripherals/io/iopin.vhd|
+Z18 !s107 A:/Project/RISC-V RV32E Micro/peripherals/io/iopin.vhd|
 !i113 1
 R12
 R13
@@ -75,100 +75,18 @@ Aarch
 R2
 R3
 R4
-DEx4 work 11 port_router 0 22 N4iFkmEGd4i<Vo@bc8BU@3
-l33
+Z19 DEx4 work 5 iopin 0 22 nIIkmSn:mfcH7zYb51gDK0
+l23
 L21
-VoB0XGdXKMM6JkXUNlez300
-!s100 ThTPnQ;[@b6PUQTHfFFKS0
+Z20 VN6YIE<0k6Z4c>f[X0m6fX0
+Z21 !s100 ;jGA@E@UcdhhA<lUQK5NZ1
 R7
 32
+R8
+!i10b 1
+R9
 R17
-!i10b 1
 R18
-R19
-R20
-!i113 1
-R12
-R13
-Eporta
-Z21 w1685002057
-R2
-R3
-R4
-R0
-Z22 8A:/Project/RISC-V RV32E Micro/peripherals/io/portA.vhd
-Z23 FA:/Project/RISC-V RV32E Micro/peripherals/io/portA.vhd
-l0
-L5
-V^1DFA274bM6UX2h3no:e;0
-!s100 gH936GRGLZ8gXC5B<Fml11
-R7
-32
-R17
-!i10b 1
-R18
-Z24 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/peripherals/io/portA.vhd|
-Z25 !s107 A:/Project/RISC-V RV32E Micro/peripherals/io/portA.vhd|
-!i113 1
-R12
-R13
-Aarch
-R2
-R3
-R4
-Z26 DEx4 work 5 porta 0 22 ^1DFA274bM6UX2h3no:e;0
-l21
-L13
-Z27 V14^XS3mK2Fh[19_1[R[>_1
-Z28 !s100 cQYm0=^6`8ehRKfYYR`Oj1
-R7
-32
-R17
-!i10b 1
-R18
-R24
-R25
-!i113 1
-R12
-R13
-Eporta_router
-Z29 w1685002292
-R2
-R3
-R4
-R0
-Z30 8A:/Project/RISC-V RV32E Micro/peripherals/io/portA_router.vhd
-Z31 FA:/Project/RISC-V RV32E Micro/peripherals/io/portA_router.vhd
-l0
-L5
-V_lW_9Jhh0Lh:UOF::IS3b1
-!s100 0MIRQYK:WRnIWl;z^C1J`3
-R7
-32
-Z32 !s110 1685002296
-!i10b 1
-Z33 !s108 1685002296.000000
-Z34 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/peripherals/io/portA_router.vhd|
-Z35 !s107 A:/Project/RISC-V RV32E Micro/peripherals/io/portA_router.vhd|
-!i113 1
-R12
-R13
-Aarch
-R2
-R3
-R4
-DEx4 work 12 porta_router 0 22 _lW_9Jhh0Lh:UOF::IS3b1
-l27
-L16
-V=]?o<<KY?4`8B_J2ZK0_20
-!s100 MET4TVAhS=7Yn7QXGHDNS0
-R7
-32
-R32
-!i10b 1
-R33
-R34
-R35
 !i113 1
 R12
 R13

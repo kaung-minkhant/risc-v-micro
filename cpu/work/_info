@@ -1,0 +1,338 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dA:/Project/RISC-V RV32E Micro/cpu
+Eadder
+Z1 w1687839571
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8A:/Project/RISC-V RV32E Micro/cpu/adder.vhd
+Z6 FA:/Project/RISC-V RV32E Micro/cpu/adder.vhd
+l0
+L5
+V;@TM2ceD8;MNQAG]fX9j_0
+!s100 <g[ojhC?Xmhn84XR;E0T]1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1687840310
+!i10b 1
+Z9 !s108 1687840310.000000
+Z10 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/cpu/adder.vhd|
+Z11 !s107 A:/Project/RISC-V RV32E Micro/cpu/adder.vhd|
+!i113 1
+Z12 o-work work
+Z13 tExplicit 1 CvgOpt 0
+Aarch
+R2
+R3
+R4
+DEx4 work 5 adder 0 22 ;@TM2ceD8;MNQAG]fX9j_0
+l30
+L18
+VD?]8VST`Yng3C2E0@=h9X2
+!s100 V<i6^kAWlYMM;k3>86n:81
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eadder1
+Z14 w1687837880
+R2
+R3
+R4
+R0
+R5
+R6
+l0
+L5
+VY2n63WaGM7eQXzYPJi?MN0
+!s100 jW6XEDAMl0QnbK<Fg5Y3e2
+R7
+32
+Z15 !s110 1687837893
+!i10b 1
+Z16 !s108 1687837893.000000
+R10
+R11
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 6 adder1 0 22 Y2n63WaGM7eQXzYPJi?MN0
+l28
+L15
+V_HFEiUNAfWEg>6Uz:FQ7W3
+!s100 YDRma=EkE:oYQ4zS`USCh0
+R7
+32
+R15
+!i10b 1
+R16
+R10
+R11
+!i113 1
+R12
+R13
+Ealu
+Z17 w1688088659
+R2
+R3
+R4
+R0
+Z18 8A:/Project/RISC-V RV32E Micro/cpu/alu.vhd
+Z19 FA:/Project/RISC-V RV32E Micro/cpu/alu.vhd
+l0
+L5
+V`e2XTidZI54jM]KlN==c93
+!s100 eCcF]<h1MDGiNQ0XGn0d[0
+R7
+32
+Z20 !s110 1688088665
+!i10b 1
+Z21 !s108 1688088665.000000
+Z22 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/cpu/alu.vhd|
+Z23 !s107 A:/Project/RISC-V RV32E Micro/cpu/alu.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+Z24 DEx4 work 3 alu 0 22 `e2XTidZI54jM]KlN==c93
+l58
+L26
+VVmGNLfG1oXP9`[IkA8S<Q0
+!s100 fE[kIYdY<A<<ZiNh53?<?3
+R7
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R12
+R13
+Efull_adder
+Z25 w1687837452
+R2
+R3
+R4
+R0
+Z26 8A:/Project/RISC-V RV32E Micro/cpu/full_adder.vhd
+Z27 FA:/Project/RISC-V RV32E Micro/cpu/full_adder.vhd
+l0
+L5
+VT72HMo>WmV:eO2?ZdYLJG3
+!s100 6n3=^a>[9G?hbUE?cWjSG3
+R7
+32
+Z28 !s110 1688088223
+!i10b 1
+Z29 !s108 1688088223.000000
+Z30 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/cpu/full_adder.vhd|
+Z31 !s107 A:/Project/RISC-V RV32E Micro/cpu/full_adder.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 10 full_adder 0 22 T72HMo>WmV:eO2?ZdYLJG3
+l25
+L15
+VLe_?<X@h[1iP:A3F4gW>03
+!s100 0dz2nZ74G@FCdz7OaGe233
+R7
+32
+R28
+!i10b 1
+R29
+R30
+R31
+!i113 1
+R12
+R13
+Ehalf_adder
+Z32 w1687837150
+R2
+R3
+R4
+R0
+Z33 8A:/Project/RISC-V RV32E Micro/cpu/half_adder.vhd
+Z34 FA:/Project/RISC-V RV32E Micro/cpu/half_adder.vhd
+l0
+L5
+VNaXA@m2[J5o2_WfbgRa<D0
+!s100 f=QldB?kKBdX<g]bW<T`K3
+R7
+32
+R8
+!i10b 1
+R9
+Z35 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/cpu/half_adder.vhd|
+Z36 !s107 A:/Project/RISC-V RV32E Micro/cpu/half_adder.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 10 half_adder 0 22 NaXA@m2[J5o2_WfbgRa<D0
+l16
+L14
+VO`0Ne1GPM]NlgoRZ5I>1G3
+!s100 JX]LjVK0i@0lG@SENF^h?2
+R7
+32
+R8
+!i10b 1
+R9
+R35
+R36
+!i113 1
+R12
+R13
+Emultiplier
+Z37 w1687843955
+R2
+R3
+R4
+R0
+Z38 8A:/Project/RISC-V RV32E Micro/cpu/multiplier.vhd
+Z39 FA:/Project/RISC-V RV32E Micro/cpu/multiplier.vhd
+l0
+L5
+VK<JnR6kmReH49LgYHm7k70
+!s100 iY^WR0PMzIHkD[1EJ8HFD0
+R7
+32
+Z40 !s110 1687843962
+!i10b 1
+Z41 !s108 1687843962.000000
+Z42 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/cpu/multiplier.vhd|
+Z43 !s107 A:/Project/RISC-V RV32E Micro/cpu/multiplier.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 10 multiplier 0 22 K<JnR6kmReH49LgYHm7k70
+l40
+L16
+V[IZmV?6c?acXQa[Y0MW8R0
+!s100 4S@4RBJ>J32a@DZe:81li1
+R7
+32
+R40
+!i10b 1
+R41
+R42
+R43
+!i113 1
+R12
+R13
+Eone_bit_alu
+Z44 w1688042246
+R2
+R3
+R4
+R0
+Z45 8A:/Project/RISC-V RV32E Micro/cpu/one_bit_alu.vhd
+Z46 FA:/Project/RISC-V RV32E Micro/cpu/one_bit_alu.vhd
+l0
+L5
+VzOizTM;nZf7Eii?SOW2^T3
+!s100 46ezP=S`d>c7dz0KKJio23
+R7
+32
+Z47 !s110 1688042457
+!i10b 1
+Z48 !s108 1688042457.000000
+Z49 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/cpu/one_bit_alu.vhd|
+Z50 !s107 A:/Project/RISC-V RV32E Micro/cpu/one_bit_alu.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 11 one_bit_alu 0 22 zOizTM;nZf7Eii?SOW2^T3
+l39
+L26
+VU3hM4XDX^fcVA38_NLlRc1
+!s100 cVhPZhJ;Z2bN@oMA1URoj3
+R7
+32
+R47
+!i10b 1
+R48
+R49
+R50
+!i113 1
+R12
+R13
+Eregister_file
+Z51 w1688020998
+R2
+R3
+R4
+R0
+Z52 8A:/Project/RISC-V RV32E Micro/cpu/register_file.vhd
+Z53 FA:/Project/RISC-V RV32E Micro/cpu/register_file.vhd
+l0
+L5
+VhNUIHHb:V`KEa6W;h7RVV3
+!s100 KDo<Lk[Y`;aQIc9NhQ=zA1
+R7
+32
+Z54 !s110 1688035581
+!i10b 1
+Z55 !s108 1688035581.000000
+Z56 !s90 -reportprogress|300|-work|work|A:/Project/RISC-V RV32E Micro/cpu/register_file.vhd|
+Z57 !s107 A:/Project/RISC-V RV32E Micro/cpu/register_file.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 13 register_file 0 22 hNUIHHb:V`KEa6W;h7RVV3
+l34
+L31
+V4ZhJ9Vgz8VPlV<dPo9:DP1
+!s100 PNbJgnhlcK5g8@1jgVjMD3
+R7
+32
+R54
+!i10b 1
+R55
+R56
+R57
+!i113 1
+R12
+R13
